@@ -1,0 +1,6 @@
+artifacts/
+*.pkl
+*.parquet
+*.csv
+__pycache__/
+.env
